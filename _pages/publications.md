@@ -15,6 +15,11 @@ Preprint, 2025<br>
 Preprint, 2025<br>
 [Code](https://github.com/squaresLab/codealign)
 
+[**Quantifying and Mitigating the Impact of Obfuscations on Machine-Learning-Based Decompilation Improvement**](https://link.springer.com/chapter/10.1007/978-3-031-97620-9_14)
+*Luke Dramko*, Deniz Bölöni-Turgut, Claire Le Goues, Edward Schwartz<br>
+Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), 2025<br>
+[Code](https://github.com/squaresLab/ML-Decompilation-Obfuscation), [Data](https://zenodo.org/records/15212423)
+
 [**A Taxonomy of C Decompiler Fidelity Issues**](https://www.usenix.org/system/files/sec23winter-prepub-381-dramko.pdf)<br>
 *Luke Dramko*, Jeremy Lacomis, Edward Schwartz, Bogdan Vasilescu, Claire Le Goues<br>
 USENIX Security, 2024<br>
