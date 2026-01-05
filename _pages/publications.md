@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Idioms: Neural Decompilation With Joint Code and Type Prediction**](https://arxiv.org/abs/2502.04536)<br>
+[**Idioms: A Simple and Effective Framework for Turbo-Charging Local Neural Decompilation with Well-Defined Types**]({{ site.baseurl }}/files/idioms.pdf)<br>
 *Luke Dramko*, Claire Le Goues, Edward Schwartz<br>
-Preprint, 2025<br>
-[Code](https://github.com/squaresLab/idioms), [Dataset & Model Weights](https://zenodo.org/records/14797017)
+Network and Distributed Security Symposium (NDSS), 2026<br>
+[Code](https://github.com/squaresLab/idioms), [Dataset & Model Weights](https://zenodo.org/records/15683630)
 
-[**Fast, Fine-Grained Equivalence Checking for Neural Decompilers**](https://arxiv.org/abs/2501.04811)<br>
+[**Fast, Fine-Grained Equivalence Checking for Neural Decompilers**](https://dl.acm.org/doi/abs/10.1145/3772368)<br>
 *Luke Dramko*, Claire Le Goues, Edward Schwartz<br>
 Preprint, 2025<br>
 [Code](https://github.com/squaresLab/codealign)
